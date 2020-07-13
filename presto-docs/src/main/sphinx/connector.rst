@@ -39,6 +39,7 @@ from different data sources.
     connector/redis
     connector/redshift
     connector/salesforce
+    connector/snowflake
     connector/sqlserver
     connector/system
     connector/thrift

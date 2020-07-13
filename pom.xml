@@ -147,6 +147,7 @@
         <module>presto-oracle</module>
         <module>presto-druid</module>
         <module>presto-salesforce</module>
+        <module>presto-snowflake</module>
     </modules>
 
     <dependencyManagement>
